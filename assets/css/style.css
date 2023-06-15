@@ -1,0 +1,20 @@
+body{
+    background-color: plum;
+    color:white;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    color: #CCFFFF;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
