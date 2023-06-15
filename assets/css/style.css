@@ -1,10 +1,10 @@
 body{
-    background-color: plum;
+    background-color: rgb(138, 50, 173);
     color:white;
 }
 
 a {
-    color: blue;
+    color: black;
     text-decoration: none;
 }
 a:hover {
