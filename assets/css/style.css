@@ -34,7 +34,7 @@ img {
 }
 
 .navigation{
-    position: fixed;
+    position:absolute;
     background-image: linear-gradient(to bottom right, #845EC2, #2C73D2, #0081CF, #0089BA, #008E9B, #008F7A);
     width: 91%;
     height: 25%;
@@ -42,7 +42,7 @@ img {
     padding-left: 50px;
 }
 .navigation2{ 
-    position: fixed;
+    position:absolute;
     background-image: linear-gradient(to bottom right, #845EC2, #2C73D2, #0081CF, #0089BA, #008E9B, #008F7A);
     width: 91%;
     height: 20%;
